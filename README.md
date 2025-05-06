@@ -36,13 +36,15 @@ Business-End means the Canteen Owner. As of now there is no separate application
 So Canteen Owners are provided with the Default `Admin Panel that is Provided by Django`.
 
 Here Is Screenshot of project
-![210779289-![2107792![210779276-65054df6-b283-497a-aea2-cf7cb6c939fe](https://github.com/user-a![210779271-4d316553-4994-4755-b700-b6bf239a9093](https://github.com/user-attachments/assets/f6210a6b-17c3-4a66-a4ff-89a52279a2d8)
-ttachments/assets/6a9cd96c-a317-46d7-953e-4925bb3bdade)
-86-69a91a93-116b-4ab9-9290-fe437e9cc6ab](https://github.com/user-attachments/assets/2123226d-0b90-4b77-b2d9-3ee914932e0c)
-1fb2![210779279-403b0686-d49c-4c70-afab-e2fabc0b45d0](https://github.com/user-attachments/assets/7c6ca867-ba48-49aa-a3a7-3a9020f3c296)
-0b15-c9af-46f7-a6fc-7421d9c439f8](https://github.com/user-attachments/assets/384315fe-0ddd-4a85-a60b-2eb14618703a)
+![Image](https://github.com/user-attachments/assets/f5ff1aca-f620-4d6c-9dd5-5c623490b906)
 
+![Image](https://github.com/user-attachments/assets/36d0cf4a-5e8a-45a6-ba0e-9efc0093069c)
 
+![Image](https://github.com/user-attachments/assets/3406f974-8d9e-4152-bce4-d8b371d50e60)
+
+![Image](https://github.com/user-attachments/assets/66aa4d41-ede9-4fe2-aba2-b796147fbbca)
+
+![Image](https://github.com/user-attachments/assets/68f93b67-a685-4862-8893-a871b06e20d2)
 
 ## Note
 If You are Learner, or Want to test this application. Then After Forking & Cloning, You Can use these `Test Credentials` for Logging-In into the Application.
