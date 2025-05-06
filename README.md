@@ -38,13 +38,17 @@ So Canteen Owners are provided with the Default `Admin Panel that is Provided by
 Here Is Screenshot of project
 ![Image](https://github.com/user-attachments/assets/3406f974-8d9e-4152-bce4-d8b371d50e60)
 
-![Image](https://github.com/user-attachments/assets/f5ff1aca-f620-4d6c-9dd5-5c623490b906)
+![Image](https://github.com/user-attachments/assets/66aa4d41-ede9-4fe2-aba2-b796147fbbca)
 
 ![Image](https://github.com/user-attachments/assets/68f93b67-a685-4862-8893-a871b06e20d2)
 
+![Image](https://github.com/user-attachments/assets/d4e94e45-947a-4f56-a340-57f9ca2c341c)
+
 ![Image](https://github.com/user-attachments/assets/36d0cf4a-5e8a-45a6-ba0e-9efc0093069c)
 
-![Image](https://github.com/user-attachments/assets/66aa4d41-ede9-4fe2-aba2-b796147fbbca)
+![Image](https://github.com/user-attachments/assets/f5ff1aca-f620-4d6c-9dd5-5c623490b906)
+
+
 
 
 
